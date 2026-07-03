@@ -2,7 +2,7 @@
 
 #### Preview
 
-- [Demo](https://themewagon.github.io/picto/)
+- [Demo](https://devsuzan.netlify.app/)
 
 ## Getting Started
 
