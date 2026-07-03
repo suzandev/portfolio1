@@ -1,7 +1,9 @@
-import img1 from "../../assets/images/blog/blog-1.jpg";
-import img2 from "../../assets/images/blog/blog-2.jpg";
-import img3 from "../../assets/images/blog/blog-3.jpg";
-import img4 from "../../assets/images/blog/blog-4.jpg";
+import img1 from "../../assets/images/blog/tailwindCss.jpg";
+import img2 from "../../assets/images/blog/full-stack.jpg";
+import img3 from "../../assets/images/blog/real-world.jpg";
+import img4 from "../../assets/images/blog/responsive.jpg";
+import img5 from "../../assets/images/blog/ui-ux.jpg";
+import img6 from "../../assets/images/blog/interface.jpg";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
 import MonoBlog from "./MonoBlog";
@@ -60,7 +62,7 @@ const blogData = [
   },
   {
     id: 5,
-    image: img2,
+    image: img5,
     date: "22 Oct, 2025",
     comments: 246,
     title: "Streamlining Workflows with UI/UX Best Practices",
@@ -68,7 +70,7 @@ const blogData = [
   },
   {
     id: 6,
-    image: img1,
+    image: img6,
     date: "22 Oct, 2025",
     comments: 246,
     title: "Optimizing Interface Components for Performance",
